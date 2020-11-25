@@ -293,5 +293,5 @@ Python转义字符
 # 不转义
 # r:非转义的原始字符串
 # 而如果是以r开头，那么说明后面的字符，都是普通的字符了。
-# s = r'Hello\nCharlie\nGood\nMorning'
-# print(s)
+s = r'Hello\nCharlie\nGood\nMorning'
+print(s)
